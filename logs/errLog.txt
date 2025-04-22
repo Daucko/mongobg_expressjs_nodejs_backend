@@ -1,0 +1,25 @@
+20250415	15:19:46	35267a13-bec8-4694-9804-d121a6450941	Error: Not allowed by CORS
+20250417	10:55:54	34394669-e652-4a82-89b1-9ae6967c40a2	TypeError: data.setEmployee is not a function
+20250417	10:57:47	0e1a7df0-5bf6-4fb1-a341-a5b050837d67	TypeError: Cannot read properties of undefined (reading 'id')
+20250418	15:05:34	a5fac53a-1c8f-43fe-8300-63e66fad83f9	ReferenceError: setUsers is not defined
+20250418	16:53:55	af93ac28-6f4d-4f12-a535-8ac312199270	SyntaxError: Expected ',' or '}' after property value in JSON at position 23 (line 3 column 3)
+20250418	17:07:32	d9a7319d-ee2f-44e9-a18a-55704ab70694	SyntaxError: Unexpected token 'u', ..." "roles": user,
+  "p"... is not valid JSON
+20250418	17:07:52	dc696d7e-6a45-40d5-91a7-722d1490061b	SyntaxError: Unexpected token 'U', ...""roles":  User,
+  "p"... is not valid JSON
+20250418	17:09:03	8e070018-b963-43e7-82fa-4148e4536625	SyntaxError: Expected ',' or '}' after property value in JSON at position 52 (line 5 column 3)
+20250418	17:10:43	59345ad8-f77f-43db-9d48-bfa0f485beb0	SyntaxError: Expected ',' or '}' after property value in JSON at position 52 (line 5 column 3)
+20250421	16:11:15	798ed8e8-24f8-472a-af59-caf394430d22	ReferenceError: refreshToken is not defined
+20250421	16:11:24	79538a94-0773-4fd9-97de-326dba18faf1	ReferenceError: refreshToken is not defined
+20250421	16:11:28	0f661202-9469-46f7-b59b-1ecb6784ac23	ReferenceError: refreshToken is not defined
+20250421	17:03:00	0f5cb013-9c88-4145-bf8e-c3c7ccd503e6	TypeError: Employee.find is not a function
+20250421	17:04:21	847c9817-d998-4e8b-94c9-eddb34ea9dd2	TypeError: Employee.findOne is not a function
+20250421	17:06:01	d8d311cb-f533-4cc4-b299-2eff9a51c774	TypeError: Employee.find is not a function
+20250421	17:06:03	927a558e-cd4d-4a9a-953b-ad32e80b2535	TypeError: Employee.find is not a function
+20250421	17:07:27	684374c0-a7ce-4f4c-ad07-c94f60a3a6cb	TypeError: Employee.find is not a function
+20250422	13:29:49	c7ec3024-d735-48ea-ae3b-26d8607cd8b0	TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+20250422	13:47:41	6de61059-9215-4d4f-8d25-aa66f0add8dc	Error: read ECONNRESET
+20250422	13:48:17	539fc7d0-ff43-458b-acec-d17f6d22d906	MongoServerSelectionError: getaddrinfo ENOTFOUND ac-4mzu9ni-shard-00-00.fh6cygy.mongodb.net
+20250422	13:50:50	eff5972c-7dd5-4408-8188-6b92398350f4	ReferenceError: red is not defined
+20250422	13:51:52	8fc7134c-0130-4b4a-86c0-0ea87a20dde3	ReferenceError: findOne is not defined
+20250422	14:56:00	9fcbc3dc-2e20-461c-a9f9-bf09a5f19874	ReferenceError: findOne is not defined
